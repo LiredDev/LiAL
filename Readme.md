@@ -1,3 +1,3 @@
- ## Lired Audio Library
+ ## LiAL - Lired Audio Library
 
  - Coming soon..
